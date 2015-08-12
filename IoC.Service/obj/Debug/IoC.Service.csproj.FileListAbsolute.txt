@@ -1,0 +1,28 @@
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\IoC.Service\bin\Debug\IoC.Service.dll.config
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\IoC.Service\bin\Debug\IoC.Service.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\IoC.Service\bin\Debug\IoC.Service.pdb
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\IoC.Service\bin\Debug\EntityFramework.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\IoC.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\IoC.Service\bin\Debug\IoC.Core.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\IoC.Service\bin\Debug\IoC.Data.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\IoC.Service\bin\Debug\IoC.Core.pdb
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\IoC.Service\bin\Debug\IoC.Data.pdb
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\IoC.Service\bin\Debug\EntityFramework.xml
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\IoC.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\IoC.Service\obj\Debug\IoC.Service.csprojResolveAssemblyReference.cache
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\IoC.Service\obj\Debug\IoC.Service.dll
+C:\Users\CodeSlayer\Source\Repos\HES\InversionOfControl\IoC.Service\obj\Debug\IoC.Service.pdb
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Service\bin\Debug\IoC.Service.dll.config
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Service\bin\Debug\IoC.Service.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Service\bin\Debug\IoC.Service.pdb
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Service\bin\Debug\EntityFramework.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Service\bin\Debug\IoC.Core.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Service\bin\Debug\IoC.Data.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Service\bin\Debug\IoC.Core.pdb
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Service\bin\Debug\IoC.Data.pdb
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Service\bin\Debug\EntityFramework.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Service\obj\Debug\IoC.Service.csprojResolveAssemblyReference.cache
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Service\obj\Debug\IoC.Service.dll
+C:\Users\CodeSlayer\Documents\Visual Studio 2013\Projects\InversionOfControl\IoC.Service\obj\Debug\IoC.Service.pdb
